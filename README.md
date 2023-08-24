@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Chrymson, you can call me either Chrymson or Justin
-- 👀 I’m interested in coding (oviously), music and astronomy (not astrology!)
+- 👀 I’m interested in coding (obviously), 🎶 music and 🌌 astronomy (not astrology!)
 - 🌱 Currently I'm learning python, even though I lack the creativity to practice on my own
 - 💞️ I’m looking for someone who wants to learn with me
 - 📫 How to reach me:
